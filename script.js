@@ -45,7 +45,7 @@ function removeBook(index) {
 }
 
 function addBookToLibrary() {
-  
+ 
   let title = document.querySelector("#title").value;
   let author = document.getElementById("author").value;
   let pages = document.getElementById("pages").value;
